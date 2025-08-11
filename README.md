@@ -1,5 +1,7 @@
 # Human Resources Data Analysis
 
+Public Tableau Interactive Dashboard of this analysis is available at this [link] (https://public.tableau.com/app/profile/shristi.shrestha2022/viz/HumanResourcesDashboard_17530387295710/HRDashboard?publish=yes&showOnboarding=true).
+
 ## Table of Contents
 1.  [Project Overview](#project-overview)
 2.  [Dataset](#dataset)
