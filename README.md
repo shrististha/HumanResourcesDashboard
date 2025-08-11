@@ -146,6 +146,9 @@ To replicate the data cleaning process on your local machine, please follow thes
 5.  **Access Cleaned Data**
     The cleaned dataset will be saved as `HumanResourcesCleanDataset.csv` and is ready for further HR analytics, dashboard creation, or machine learning applications.
 
+6. **Connect `HumanResourcesCleanDataset.csv` by opening `HumanResources_Dashboard.twbx` dashboard.**
+7. The online version of this dashboard can be accessed from this [link]([https://public.tableau.com/app/profile/shristi.shrestha2022/viz/CustomerChurnAnalysisDashboard_17530394841520/OverviewDashboard](https://public.tableau.com/app/profile/shristi.shrestha2022/viz/HumanResourcesDashboard_17530387295710/HRDashboard?publish=yes&showOnboarding=true)).
+
 ## Project Structure
 ```
 HumanResourcesAnalysis/
